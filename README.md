@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ronaldo Júnio 👋
     
-- 🔭 Eu atualmente estou terminando minha graduação na UFJ. 
+- 🔭 Atualmente estou terminando minha graduação na UFJ. 
 - 🌱 As tecnologias que estou estudando e usando do meu dia a dia:
 <div style="display: inline_block">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
